@@ -1,5 +1,5 @@
 #FROM node:carbon
-FROM alpine:3.11
+FROM node:16-alpine3.11-slim
 
 
 # Create app directory
