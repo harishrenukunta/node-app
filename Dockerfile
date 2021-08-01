@@ -1,4 +1,5 @@
-FROM node:carbon
+#FROM node:carbon
+FROM alpine:3.11
 
 
 # Create app directory
